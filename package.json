@@ -1,8 +1,8 @@
 {
-  "name": "webpush",
+  "name": "push",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "sw.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "web-push": "^3.4.0"
+    "web-push": "^3.6.1"
   }
 }
